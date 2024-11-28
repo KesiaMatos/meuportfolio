@@ -1,0 +1,97 @@
+main {
+    background-color: #F25774;
+    padding: 30px;
+    min-height: 39rem;
+}
+
+.bg-body-tertiary {
+    background-color: #000000 !important;
+    color: #FFFFFF;
+   
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+ 
+}
+
+.card-footer {
+    padding: 15px;
+}
+
+.fonte {
+    font-family: 'FAMILY_NAME';
+    font-style: NORMAL_OR_ITALIC;
+    font-weight: NUMERIC_WEIGHT_VALUE;
+    font-display: swap;
+    src: url(../fonts/reggae-one/ReggaeOne-Regular.ttf) format('woff2');
+    font-size: 2.5em;
+    color: #000000;
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'FAMILY_NAME';
+    font-style: NORMAL_OR_ITALIC;
+    font-weight: NUMERIC_WEIGHT_VALUE;
+    font-display: swap;
+    src: url(../fonts/reggae-one/ReggaeOne-Regular.ttf) format('woff2');
+}
+
+.card {
+    margin: 5px;
+}
+
+.corbg {
+    background-color: rgb(215, 89, 108)
+}
+
+.alteracao1{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.alteracao2{
+    text-align: center;
+}
+
+.imgPerfilKesia{
+    text-align:center;
+}
+.imgTamanho{
+    width: 75%;
+}
+
+.card-body{
+    padding: 16px 0px 16px 0px;
+}
+.fonte2{
+    font-family: 'FAMILY_NAME';
+    font-style: NORMAL_OR_ITALIC;
+    font-weight: NUMERIC_WEIGHT_VALUE;
+    font-display: swap;
+    src: url(../fonts/reggae-one/ReggaeOne-Regular.ttf) format('woff2');
+    font-size: 2.5em;
+    color: #000000;
+    text-align: center;
+}
+@font-face {
+    font-family: 'FAMILY_NAME';
+    font-style: NORMAL_OR_ITALIC;
+    font-weight: NUMERIC_WEIGHT_VALUE;
+    font-display: swap;
+    src: url(../fonts/reggae-one/ReggaeOne-Regular.ttf) format('woff2');
+}
+.texto{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+    margin: 30px 0 30px 0;
+}
+
+.alinhamento1{
+    justify-content: center;
+}
+
+.justifyContentEnd{
+    justify-content: end;
+}

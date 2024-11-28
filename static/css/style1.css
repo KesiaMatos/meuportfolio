@@ -1,0 +1,123 @@
+.padding-15px {
+    padding: 15px;
+}
+
+.desenvolvidopor {
+    background-color: rgb(9, 9, 9);
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+
+
+
+.link-cor-branca {
+    color: white;
+    text-decoration: none;
+}
+
+.font-size-h1 {
+    
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-family: 'FAMILY_NAME';
+    font-style: NORMAL_OR_ITALIC;
+    font-weight: NUMERIC_WEIGHT_VALUE;
+    font-display: swap;
+    src: url(../fonts/reggae-one/ReggaeOne-Regular.ttf) format('woff2');
+}
+
+
+
+.fonte {
+    font-family: 'FAMILY_NAME';
+    font-style: NORMAL_OR_ITALIC;
+    font-weight: NUMERIC_WEIGHT_VALUE;
+    font-display: swap;
+    src: url(../fonts/reggae-one/ReggaeOne-Regular.ttf) format('woff2');
+    text-align: center;
+    font-size: 30pt;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+
+
+.fonte-letra {
+    font-size: 14pt;
+}
+
+
+.posicao {
+    display: flex;
+}
+
+.largura-60 {
+    width: 60%;
+}
+
+.largura-40 {
+    width: 40%;
+}
+
+.img-banner {
+    width: 100%;
+}
+
+
+
+
+.margem-article {
+    margin-right: 20px;
+}
+
+.margem-aside {
+    margin-left: 30px;
+}
+
+.tamanho-fonte-bloco {
+    font-size: 12pt;
+}
+
+.nav-alinhamento {
+    width: 100%;
+    display: flex;
+    align-content: end;
+    justify-content: left;
+}
+
+
+
+.menu {
+    display: flex;
+    width: 50%;
+    justify-content: end;
+}
+
+.kesia1 {
+    background-color: rgb(208, 163, 41);
+    font-size: large;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+.kesia2 {
+    background-color: #d01919;
+    font-size: large;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+.alinhamento1 {
+    justify-content: center;
+}
+
+.alinhamentoTexto {
+    text-align: justify;
+}
+
+.alinhamentoImg {
+    text-align: center;
+}

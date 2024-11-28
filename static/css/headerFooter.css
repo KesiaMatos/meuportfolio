@@ -1,0 +1,23 @@
+main {  
+    padding: 30px;
+    min-height: 39rem;
+}
+
+.bg-body-tertiary {
+    background-color: #000000 !important;
+    color: #FFFFFF;
+   
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+ 
+}
+
+.card-footer {
+    padding: 15px;
+}
+
+.justifyContentEnd{
+    justify-content: end;
+}
